@@ -18,7 +18,7 @@ pip install colorama
 ## Installation
 
 ```
-git clone
+git clone https://github.com/blackmagic2023/sqliheadless.git
 ```
 ```
 cd sqliheadless
